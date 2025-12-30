@@ -27,6 +27,6 @@
 
 ---
 
-### 😄 Fun Facts  
+### 😄 Fun Facts
 - I almost never miss a big 🏏 cricket or ⚽football match—whether it’s to watch or to play  
 - I prefer practical solutions over over-engineering  
