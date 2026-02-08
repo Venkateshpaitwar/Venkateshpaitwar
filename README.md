@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Venkateshpaitwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </h1>
 
-<p> Pursuing B.Tech in Computer Science (Data Science)...</p> 
-
 ---
 
 <p align="center">
