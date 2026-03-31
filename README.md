@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Venkateshpaitwar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Venkateshpaitwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
